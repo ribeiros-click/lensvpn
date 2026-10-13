@@ -1,0 +1,10 @@
+OVPNBar/build/
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+
+# configurações de VPN contêm chaves privadas
+*.ovpn
+*.key
+*.p12
